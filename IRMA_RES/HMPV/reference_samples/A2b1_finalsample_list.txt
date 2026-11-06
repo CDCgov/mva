@@ -1,0 +1,93 @@
+>KC403978.1/1-13295 Human metapneumovirus strain HMPV/AUS/172832103/2004/A, complete genome
+>KC403983.1/1-13282 Human metapneumovirus strain HMPV/AUS/172837900/2004/A, complete genome
+>KC403984.1/1-13286 Human metapneumovirus strain HMPV/AUS/193951503/2004/A, complete genome
+>KC562224.1/1-13283 Human metapneumovirus strain HMPV/AUS/136342137/2003/A, complete genome
+>OL794421.1/1-13334 Human metapneumovirus isolate NL/4/05/A2, complete genome
+>OL794391.1/1-13334 Human metapneumovirus isolate NL/2/03/A2, complete genome
+>OL794420.1/1-13335 Human metapneumovirus isolate NL/4/03/A2, complete genome
+>OL794411.1/1-13335 Human metapneumovirus isolate NL/3/08/A2, complete genome
+>OL794477.1/1-13334 Human metapneumovirus isolate NL/9/06/A2, complete genome
+>OL794395.1/1-13334 Human metapneumovirus isolate NL/2/08/A2, complete genome
+>OL794412.1/1-13335 Human metapneumovirus isolate NL/3/09/A2, complete genome
+>OL794369.1/1-13335 Human metapneumovirus isolate NL/10/06/A2, complete genome
+>OL794366.1/1-13338 Human metapneumovirus isolate NL/1/15/A2, complete genome
+>OL794472.1/1-13338 Human metapneumovirus isolate NL/8/14/A2, complete genome
+>OL794480.1/1-13339 Human metapneumovirus isolate NL/9/14/A2, complete genome
+>OL794451.1/1-13335 Human metapneumovirus isolate NL/6/13/A2, complete genome
+>OL794367.1/1-13335 Human metapneumovirus isolate NL/1/16/A2, complete genome
+>OL794454.1/1-13335 Human metapneumovirus isolate NL/6/16/A2, complete genome
+>OL794473.1/1-13332 Human metapneumovirus isolate NL/8/15/A2, complete genome
+>OP904037.1/1-13063 Human metapneumovirus isolate HMPV116, partial genome
+>OP904044.1/1-13063 Human metapneumovirus isolate HMPV125, partial genome
+>OP904006.1/1-13063 Human metapneumovirus isolate HMPV059, partial genome
+>KY474529.1/1-13221 Human metapneumovirus isolate hMPV/USA/AR001/2016, complete genome
+>KY474530.1/1-13321 Human metapneumovirus isolate hMPV/USA/AR002/2016, complete genome
+>KY474537.1/1-13274 Human metapneumovirus isolate hMPV/USA/NM007/2016, complete genome
+>OL794373.1/1-13335 Human metapneumovirus isolate NL/10/15/A2, complete genome
+>OL794430.1/1-13336 Human metapneumovirus isolate NL/4/15/A2, complete genome
+>OP904062.1/1-13063 Human metapneumovirus isolate HMPV161, partial genome
+>OY757685.1/1-13305 Human metapneumovirus isolate DW-RAT-073 genome assembly, chromosome: 1
+>OY757721.1/1-13305 Human metapneumovirus isolate DW-RAT-020 genome assembly, chromosome: 1
+>PV252964.1/1-13321 Human metapneumovirus isolate USA/WA-UW-8cf9c/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV052191.1/1-13321 Human metapneumovirus isolate hMPV/376625/USA/2023, partial genome
+>PV252956.1/1-13315 Human metapneumovirus isolate USA/WA-UW-b9d45/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV455600.1/1-13319 Human metapneumovirus isolate USA/WA-UW-d4944/2023, partial genome
+>PV052230.1/1-13320 Human metapneumovirus isolate hMPV/LCB68/USA/2024, partial genome
+>PV178527.1/1-13189 Human metapneumovirus isolate HMPV/human/USA/MA-Broad_MGH-21637/2024 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydroph
+>PV052156.1/1-13252 Human metapneumovirus isolate hMPV/183216/USA/2023, partial genome
+>OZ211304.1/1-13336 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>PV484788.1/1-13233 Human metapneumovirus isolate HMPV/human/USA/MA-Broad_MGH-23538/2025, partial genome
+>OZ211383.1/1-13335 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>PV081665.1/1-13358 Human metapneumovirus strain HMPV/A/LEIAL4179/BRA/2024, complete genome
+>KC562243.1/1-13290 Human metapneumovirus strain HMPV/USA/C1-050/2004/A, complete genome
+>KJ627377.1/1-13151 Human metapneumovirus strain HMPV/Homo sapiens/PER/CFI0320/2010/A, complete genome
+>KJ627380.1/1-13247 Human metapneumovirus strain HMPV/Homo sapiens/PER/CFI0333/2010/A, complete genome
+>KJ627408.1/1-13143 Human metapneumovirus strain HMPV/Homo sapiens/PER/CFI0350/2010/A, complete genome
+>KJ627384.1/1-13256 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE8237/2010/A, complete genome
+>KJ627406.1/1-13264 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE8149/2010/A, complete genome
+>OL794361.1/1-13335 Human metapneumovirus isolate NL/1/09/A2, complete genome
+>OL794396.1/1-13335 Human metapneumovirus isolate NL/2/09/A2, complete genome
+>KJ627386.1/1-13257 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLA4032/2008/A, complete genome
+>KJ627404.1/1-13257 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLA4816/2008/B, complete genome
+>KJ627434.1/1-13256 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLA5055/2008/A, complete genome
+>KJ627393.1/1-13256 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE7209/2009/A, complete genome
+>KJ627409.1/1-13256 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE7210/2009/A, complete genome
+>KJ627410.1/1-13256 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE0586/2009/A, complete genome
+>KJ627426.1/1-13256 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLA5066/2008/A, complete genome
+>KJ627403.1/1-13229 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE7570/2009/A, complete genome
+>KJ627436.1/1-13137 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE7537/2009/A, complete genome
+>KJ627424.1/1-13188 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLA5834/2009/A, complete genome
+>KJ627387.1/1-13263 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE7671/2010/A, complete genome
+>KJ627399.1/1-13262 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLI4745/2010/A, complete genome
+>KJ627429.1/1-13114 Human metapneumovirus strain HMPV/Homo sapiens/PER/CFI1235/2011/A, complete genome
+>KJ627381.1/1-13137 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLI1921/2010/A, complete genome
+>KJ627389.1/1-13113 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLI1302/2010/A, complete genome
+>KJ627396.1/1-13241 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLI1305/2010/A, complete genome
+>KJ627411.1/1-13154 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLI1311/2010/A, complete genome
+>KJ627437.1/1-13251 Human metapneumovirus strain HMPV/Homo sapiens/PER/FPP00726/2011/A, complete genome
+>KY474533.1/1-13313 Human metapneumovirus isolate hMPV/USA/NM003/2016, complete genome
+>KY474538.1/1-13313 Human metapneumovirus isolate hMPV/USA/NM008/2016, partial genome
+>KY474540.1/1-13307 Human metapneumovirus isolate hMPV/USA/NM010/2016, complete genome
+>KC562220.1/1-13289 Human metapneumovirus strain HMPV/USA/C1-718/2005/A, complete genome
+>KC562221.1/1-13289 Human metapneumovirus strain HMPV/USA/C1-446/2004/A, complete genome
+>KC562240.1/1-13284 Human metapneumovirus strain HMPV/AUS/134249451/2003/A, complete genome
+>MK989732.1/1-13329 Human metapneumovirus strain 20693_61_HMPV N, P, M, F, M2-1, M2-2, SH, G, and L genes, complete cds
+>MK989731.1/1-13303 Human metapneumovirus strain 20693_14_HMPV N, P, M, F, M2-1, M2-2, SH, G, and L genes, complete cds
+>OL794409.1/1-13335 Human metapneumovirus isolate NL/3/06/A2, complete genome
+>OL794422.1/1-13335 Human metapneumovirus isolate NL/4/06/A2, complete genome
+>KC562225.1/1-13285 Human metapneumovirus strain HMPV/AUS/141196482/2003/A, complete genome
+>KC562233.1/1-13280 Human metapneumovirus strain HMPV/AUS/133878351/2003/A, complete genome
+>KJ627379.1/1-13146 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE7574/2009/A, complete genome
+>KJ627385.1/1-13259 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE6360/2009/A, complete genome
+>KJ627402.1/1-13258 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLA6964/2009/A, complete genome
+>KJ627405.1/1-13234 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE7850/2010/A, complete genome
+>KJ627412.1/1-13240 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE4458/2009/A, complete genome
+>KJ627422.1/1-13258 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE7120/2009/A, complete genome
+>KJ627430.1/1-13258 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE7557/2009/A, complete genome
+>KJ627420.1/1-13233 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLE7219/2009/A, complete genome
+>KJ627417.1/1-13261 Human metapneumovirus strain HMPV/Homo sapiens/PER/IQA1484/2010/A, complete genome
+>KJ627382.1/1-13119 Human metapneumovirus strain HMPV/Homo sapiens/PER/CFI1212/2011/A, complete genome
+>KJ627401.1/1-13222 Human metapneumovirus strain HMPV/Homo sapiens/PER/FPI01165/2011/A, complete genome
+>KJ627392.1/1-13231 Human metapneumovirus strain HMPV/Homo sapiens/PER/FLA4579/2008/A, complete genome
+>OL794359.1/1-13335 Human metapneumovirus isolate NL/1/07/A2, complete genome
+>OL794478.1/1-13335 Human metapneumovirus isolate NL/9/07/A2, complete genome

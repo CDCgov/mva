@@ -1,0 +1,388 @@
+>KM361520.1/1-13049 Human metapneumovirus isolate CB22, partial genome
+>OP904039.1/1-13063 Human metapneumovirus isolate HMPV119, partial genome
+>OP904106.1/1-13063 Human metapneumovirus isolate HMPV221, partial genome
+>OP904058.1/1-13063 Human metapneumovirus isolate HMPV156, partial genome
+>MZ504962.1/1-13283 Human metapneumovirus isolate A/HMPV/Beijing/BJ3357/2013, complete genome
+>MH828684.1/1-13289 Human metapneumovirus strain vzhmpva2 nucleocapsid (N), phosphoprotein (P), matrix protein (M), fusion glycoprotein precursor (F), matrix protein M2-1 (M2-1), matrix protein M2-2 (M2-2), small hydrophobic protei
+>KY474536.1/1-13115 Human metapneumovirus isolate hMPV/USA/NM006/2016, partial genome
+>KY474541.1/1-13308 Human metapneumovirus isolate hMPV/USA/NM011/2016, complete genome
+>KY474545.1/1-13320 Human metapneumovirus isolate hMPV/USA/NM015/2016, complete genome
+>KY474544.1/1-13321 Human metapneumovirus isolate hMPV/USA/NM014/2016, complete genome
+>KY474542.1/1-13320 Human metapneumovirus isolate hMPV/USA/NM012/2016, complete genome
+>KY474535.1/1-13318 Human metapneumovirus isolate hMPV/USA/NM005/2016, complete genome
+>KY474543.1/1-13177 Human metapneumovirus isolate hMPV/USA/NM013/2016, partial genome
+>KY474531.1/1-13289 Human metapneumovirus isolate hMPV/USA/NM001/2016, complete genome
+>MW221986.1/1-13067 Human metapneumovirus strain A/NSW/WM2014916/16, partial genome
+>OL794360.1/1-13335 Human metapneumovirus isolate NL/1/08/A2, complete genome
+>OL794371.1/1-13335 Human metapneumovirus isolate NL/10/11/A2, complete genome
+>OL794397.1/1-13335 Human metapneumovirus isolate NL/2/10/A2, complete genome
+>OL794450.1/1-13335 Human metapneumovirus isolate NL/6/11/A2, complete genome
+>OL794413.1/1-13335 Human metapneumovirus isolate NL/3/10/A2, complete genome
+>OL794459.1/1-13335 Human metapneumovirus isolate NL/7/09/A2, complete genome
+>OL794468.1/1-13335 Human metapneumovirus isolate NL/8/09/A2, complete genome
+>OL794460.1/1-13335 Human metapneumovirus isolate NL/7/10/A2, complete genome
+>OL794426.1/1-13335 Human metapneumovirus isolate NL/4/11/A2, complete genome
+>OL794461.1/1-13335 Human metapneumovirus isolate NL/7/11/A2, complete genome
+>OL794449.1/1-13335 Human metapneumovirus isolate NL/6/10/A2, complete genome
+>MN867464.1/1-13320 Human metapneumovirus strain HMPV/Tianjin/3/2009(TJ-HMPV-2), complete genome
+>OL794417.1/1-13335 Human metapneumovirus isolate NL/3/15/A2, complete genome
+>OL794401.1/1-13335 Human metapneumovirus isolate NL/2/14/A2, complete genome
+>OP904054.1/1-13063 Human metapneumovirus isolate HMPV144, partial genome
+>OL794398.1/1-13335 Human metapneumovirus isolate NL/2/11/A2, complete genome
+>OP904051.1/1-13063 Human metapneumovirus isolate HMPV139, partial genome
+>OL794416.1/1-13335 Human metapneumovirus isolate NL/3/13/A2, complete genome
+>OL794428.1/1-13335 Human metapneumovirus isolate NL/4/13/A2, complete genome
+>LC671558.1/1-13261 Human metapneumovirus Tokyo_SGH-36_2018 RNA, nearly copmplete genome
+>OL794452.1/1-13335 Human metapneumovirus isolate NL/6/14/A2, complete genome
+>OP904072.1/1-13063 Human metapneumovirus isolate HMPV176, partial genome
+>OP904075.1/1-13063 Human metapneumovirus isolate HMPV180, partial genome
+>MZ504961.1/1-13303 Human metapneumovirus isolate A/HMPV/Beijing/BJ3199/2013, complete genome
+>OR338754.1/1-13236 Human metapneumovirus isolate BJ35378, complete genome
+>MZ504965.1/1-13274 Human metapneumovirus isolate A/HMPV/Beijing/BJ8047/2015, complete genome
+>OM262411.1/1-13308 Human metapneumovirus isolate WZ17152, complete genome
+>OP358286.1/1-13343 Human metapneumovirus isolate bj029, complete genome
+>MZ504967.1/1-13302 Human metapneumovirus isolate A/HMPV/Beijing/BJ8321/2015, complete genome
+>OM262405.1/1-13308 Human metapneumovirus isolate GY17001, complete genome
+>OM262417.1/1-13308 Human metapneumovirus isolate YC18077, complete genome
+>OP904071.1/1-13063 Human metapneumovirus isolate HMPV174, partial genome
+>OP904073.1/1-13063 Human metapneumovirus isolate HMPV177, partial genome
+>MK588634.1/1-13101 Human metapneumovirus isolate HMPV/01/KEN/2015, partial genome
+>MK588633.1/1-13092 Human metapneumovirus isolate HMPV/03/KEN/2013, partial genome
+>OL794374.1/1-13335 Human metapneumovirus isolate NL/10/16/A2, complete genome
+>OL794375.1/1-13334 Human metapneumovirus isolate NL/10/17/A2, complete genome
+>OL794431.1/1-13335 Human metapneumovirus isolate NL/4/17/A2, complete genome
+>PV383344.1/1-13193 Human metapneumovirus isolate MPV00032, partial genome
+>MW221987.1/1-13069 Human metapneumovirus strain A/NSW/WM2384824/13, partial genome
+>OP904059.1/1-13063 Human metapneumovirus isolate HMPV157, partial genome
+>OP904069.1/1-13063 Human metapneumovirus isolate HMPV172, partial genome
+>OL794364.1/1-13335 Human metapneumovirus isolate NL/1/13/A2, complete genome
+>OL794471.1/1-13335 Human metapneumovirus isolate NL/8/13/A2, complete genome
+>OL794479.1/1-13335 Human metapneumovirus isolate NL/9/13/A2, complete genome
+>OL794429.1/1-13335 Human metapneumovirus isolate NL/4/14/A2, complete genome
+>MZ504958.1/1-13303 Human metapneumovirus isolate A/HMPV/Beijing/BJ812/2011, complete genome
+>GQ153651.1/1-13327 Human metapneumovirus strain HMPVgz01, complete genome
+>KY474532.1/1-13260 Human metapneumovirus isolate hMPV/USA/NM002/2016, partial genome
+>PP947598.1/1-13315 Human metapneumovirus isolate USA/WA-UW-137bb/2019, complete genome
+>PP947616.1/1-13319 Human metapneumovirus isolate USA/WA-UW-ef288/2019, complete genome
+>PP947620.1/1-13320 Human metapneumovirus isolate USA/WA-UW-3e24e/2019, complete genome
+>PP947671.1/1-13413 Human metapneumovirus isolate USA/WA-UW-9112f/2019, complete genome
+>PP947631.1/1-13319 Human metapneumovirus isolate USA/WA-UW-edbec/2020, complete genome
+>PQ634955.1/1-13312 Human metapneumovirus isolate USA/WA-UW-eb32a/2019, partial genome
+>OY757611.1/1-13289 Human metapneumovirus isolate DW-RAT-087 genome assembly, chromosome: 1
+>OY757646.1/1-13288 Human metapneumovirus isolate DW-RAT-035 genome assembly, chromosome: 1
+>KY474539.1/1-13319 Human metapneumovirus isolate hMPV/USA/NM009/2016, complete genome
+>PP947649.1/1-13320 Human metapneumovirus isolate USA/WA-UW-c360f/2019, complete genome
+>PV252977.1/1-13318 Human metapneumovirus isolate USA/WA-UW-75df8/2024 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>OL794464.1/1-13446 Human metapneumovirus isolate NL/7/15/A2, complete genome
+>OL794481.1/1-13446 Human metapneumovirus isolate NL/9/15/A2, complete genome
+>PP315925.1/1-13387 UNVERIFIED: Human metapneumovirus isolate KM/8/15/A2, complete genome
+>LC789936.1/1-13291 Human metapneumovirus hMPV-K017-Gabon genomic RNA, complete genome
+>LC671555.1/1-13438 Human metapneumovirus Tokyo_SGH-23_2018 RNA, nearly copmplete genome
+>OM262393.1/1-13431 Human metapneumovirus isolate BCH19067, complete genome
+>OM262394.1/1-13430 Human metapneumovirus isolate WZ17192, complete genome
+>MN745086.1/1-13430 Human metapneumovirus isolate bj0154, complete genome
+>MZ851992.1/1-13446 Human metapneumovirus isolate bj1432, complete genome
+>OP345077.1/1-13445 Human metapneumovirus isolate bj1404, complete genome
+>OM262397.1/1-13430 Human metapneumovirus isolate WZ17391, complete genome
+>MN745087.1/1-13430 Human metapneumovirus isolate bj1203, complete genome
+>OP345078.1/1-13445 Human metapneumovirus isolate bj2223, complete genome
+>OP345079.1/1-13445 Human metapneumovirus isolate bj2244, complete genome
+>OP345080.1/1-13445 Human metapneumovirus isolate bj2261, complete genome
+>OM262402.1/1-13289 Human metapneumovirus isolate BCH18026, complete genome
+>OM262400.1/1-13289 Human metapneumovirus isolate WZ17126, complete genome
+>OP904007.1/1-13174 Human metapneumovirus isolate HMPV060, partial genome
+>OP904010.1/1-13174 Human metapneumovirus isolate HMPV063, partial genome
+>OP904030.1/1-13174 Human metapneumovirus isolate HMPV099, partial genome
+>OP904175.1/1-13174 Human metapneumovirus isolate HMPV328, partial genome
+>OP904180.1/1-13174 Human metapneumovirus isolate HMPV334, partial genome
+>OP904181.1/1-13174 Human metapneumovirus isolate HMPV335, partial genome
+>OP904031.1/1-13174 Human metapneumovirus isolate HMPV101, partial genome
+>OP904176.1/1-13174 Human metapneumovirus isolate HMPV329, partial genome
+>OP904146.1/1-13174 Human metapneumovirus isolate HMPV282, partial genome
+>OP904029.1/1-13174 Human metapneumovirus isolate HMPV098, partial genome
+>OP904008.1/1-13174 Human metapneumovirus isolate HMPV061, partial genome
+>OL794382.1/1-13446 Human metapneumovirus isolate NL/13/16/A2, complete genome
+>OL794404.1/1-13446 Human metapneumovirus isolate NL/2/17/A2, complete genome
+>OP904083.1/1-13174 Human metapneumovirus isolate HMPV194, partial genome
+>OP904095.1/1-13174 Human metapneumovirus isolate HMPV209, partial genome
+>OP904096.1/1-13174 Human metapneumovirus isolate HMPV210, partial genome
+>OM262398.1/1-13292 Human metapneumovirus isolate GZFE17003, complete genome
+>OM262399.1/1-13287 Human metapneumovirus isolate GZFE17006, complete genome
+>OM262401.1/1-13287 Human metapneumovirus isolate GZFE17009, complete genome
+>OP358284.1/1-13448 Human metapneumovirus isolate bj1323, complete genome
+>OP358285.1/1-13448 Human metapneumovirus isolate bj2488, complete genome
+>OP904134.1/1-13174 Human metapneumovirus isolate HMPV259, partial genome
+>MZ851796.1/1-13446 Human metapneumovirus isolate bj1656, complete genome
+>OP345082.1/1-13445 Human metapneumovirus isolate bj2386, complete genome
+>PP947607.1/1-13444 Human metapneumovirus isolate USA/WA-UW-ef016/2020, complete genome
+>PP947669.1/1-13444 Human metapneumovirus isolate USA/WA-UW-9502b/2020, complete genome
+>PP947698.1/1-13444 Human metapneumovirus isolate USA/WA-UW-d3f27/2020, complete genome
+>PQ634888.1/1-13444 Human metapneumovirus isolate USA/WA-UW-1b8cc/2019, complete genome
+>PQ634928.1/1-13418 Human metapneumovirus isolate USA/WA-UW-8d784/2019, partial genome
+>PP947676.1/1-13446 Human metapneumovirus isolate USA/WA-UW-03d75/2020, complete genome
+>PP947638.1/1-13426 Human metapneumovirus isolate USA/WA-UW-180da/2019, complete genome
+>PP947654.1/1-13425 Human metapneumovirus isolate USA/WA-UW-9d66c/2019, complete genome
+>PP947677.1/1-13434 Human metapneumovirus isolate USA/WA-UW-2e65e/2019, complete genome
+>PP947675.1/1-13446 Human metapneumovirus isolate USA/WA-UW-6faa8/2019, complete genome
+>PV383321.1/1-13289 Human metapneumovirus isolate MPV00001, partial genome
+>PV383356.1/1-13305 Human metapneumovirus isolate MPV00048, partial genome
+>OL794418.1/1-13446 Human metapneumovirus isolate NL/3/17/A2, complete genome
+>PP947633.1/1-13444 Human metapneumovirus isolate USA/WA-UW-370d3/2020, complete genome
+>PP947648.1/1-13444 Human metapneumovirus isolate USA/WA-UW-30401/2020, complete genome
+>PQ634941.1/1-13443 Human metapneumovirus isolate USA/WA-UW-a9f6c/2020, complete genome
+>MN306024.2/1-13411 Human metapneumovirus strain HMPV/Seattle/USA/SC0324/2019, complete genome
+>MN306028.2/1-13397 Human metapneumovirus strain HMPV/Seattle/USA/SC0380/2019, complete genome
+>PP947646.1/1-13441 Human metapneumovirus isolate USA/WA-UW-6ca2f/2019, complete genome
+>LC671556.1/1-13443 Human metapneumovirus Tokyo_SGH-28_2018 RNA, nearly copmplete genome
+>OM262406.1/1-13294 Human metapneumovirus isolate GY18083, complete genome
+>OL794443.1/1-13446 Human metapneumovirus isolate NL/5/18/A2, complete genome
+>PP947685.1/1-13444 Human metapneumovirus isolate USA/WA-UW-2c2b1/2019, complete genome
+>PP947700.1/1-13444 Human metapneumovirus isolate USA/WA-UW-e2d22/2019, complete genome
+>OP904126.1/1-13174 Human metapneumovirus isolate HMPV249, partial genome
+>MZ851993.1/1-13446 Human metapneumovirus isolate bj1367, complete genome
+>PP947574.1/1-13434 Human metapneumovirus isolate USA/WA-UW-ada21/2020, complete genome
+>PP947590.1/1-13449 Human metapneumovirus isolate USA/WA-UW-11f8d/2020, complete genome
+>PQ634931.1/1-13449 Human metapneumovirus isolate USA/WA-UW-9327f/2020, complete genome
+>PP947595.1/1-13447 Human metapneumovirus isolate USA/WA-UW-b16e5/2020, complete genome
+>PP947673.1/1-13447 Human metapneumovirus isolate USA/WA-UW-5309d/2020, complete genome
+>PP947635.1/1-13450 Human metapneumovirus isolate USA/WA-UW-6e860/2020, complete genome
+>PP947602.1/1-13436 Human metapneumovirus isolate USA/WA-UW-eb6d0/2020, complete genome
+>PP947650.1/1-13448 Human metapneumovirus isolate USA/WA-UW-80ded/2020, complete genome
+>PP947657.1/1-13448 Human metapneumovirus isolate USA/WA-UW-40550/2020, complete genome
+>PQ634925.1/1-13448 Human metapneumovirus isolate USA/WA-UW-7b42b/2020, complete genome
+>PP947563.1/1-13448 Human metapneumovirus isolate USA/WA-UW-51ee8/2020, complete genome
+>PP947556.1/1-13449 Human metapneumovirus isolate USA/WA-UW-2a4eb/2020, complete genome
+>PQ634938.1/1-13449 Human metapneumovirus isolate USA/WA-UW-a1970/2020, complete genome
+>PQ634895.1/1-13298 Human metapneumovirus isolate USA/WA-UW-26395/2020, partial genome
+>PQ634954.1/1-13300 Human metapneumovirus isolate USA/WA-UW-e9024/2020, partial genome
+>PP947622.1/1-13446 Human metapneumovirus isolate USA/WA-UW-a5d7c/2019, complete genome
+>PP947562.1/1-13446 Human metapneumovirus isolate USA/WA-UW-3f489/2019, complete genome
+>PP947692.1/1-13445 Human metapneumovirus isolate USA/WA-UW-f4790/2020, complete genome
+>PP947597.1/1-13448 Human metapneumovirus isolate USA/WA-UW-7b6a8/2019, complete genome
+>PP947674.1/1-13448 Human metapneumovirus isolate USA/WA-UW-a7b41/2020, complete genome
+>PP947636.1/1-13448 Human metapneumovirus isolate USA/WA-UW-1188c/2020, complete genome
+>PP947644.1/1-13448 Human metapneumovirus isolate USA/WA-UW-fc253/2020, complete genome
+>PP947645.1/1-13448 Human metapneumovirus isolate USA/WA-UW-74872/2020, complete genome
+>PP947610.1/1-13448 Human metapneumovirus isolate USA/WA-UW-9f11d/2020, complete genome
+>PQ634884.1/1-13448 Human metapneumovirus isolate USA/WA-UW-12bcc/2020, complete genome
+>PP947557.1/1-13447 Human metapneumovirus isolate USA/WA-UW-4c5e2/2020, complete genome
+>PQ634957.1/1-13428 Human metapneumovirus isolate USA/WA-UW-ee579/2020, partial genome
+>PQ634900.1/1-13298 Human metapneumovirus isolate USA/WA-UW-32bfc/2020, partial genome
+>PQ634898.1/1-13442 Human metapneumovirus isolate USA/WA-UW-2ea73/2020, complete genome
+>PQ634901.1/1-13446 Human metapneumovirus isolate USA/WA-UW-32c60/2020, complete genome
+>PP947559.1/1-13434 Human metapneumovirus isolate USA/WA-UW-dfafa/2020, complete genome
+>PP947660.1/1-13446 Human metapneumovirus isolate USA/WA-UW-e7dd0/2020, complete genome
+>PP947693.1/1-13446 Human metapneumovirus isolate USA/WA-UW-7e1a4/2020, complete genome
+>PP947553.1/1-13445 Human metapneumovirus isolate USA/WA-UW-9d946/2020, complete genome
+>PP947575.1/1-13448 Human metapneumovirus isolate USA/WA-UW-90436/2019, complete genome
+>PP947665.1/1-13448 Human metapneumovirus isolate USA/WA-UW-8fd40/2019, complete genome
+>PP947666.1/1-13446 Human metapneumovirus isolate USA/WA-UW-365d7/2020, complete genome
+>PP947612.1/1-13444 Human metapneumovirus isolate USA/WA-UW-c4799/2020, complete genome
+>PP947651.1/1-13443 Human metapneumovirus isolate USA/WA-UW-a1b87/2020, complete genome
+>PP947628.1/1-13444 Human metapneumovirus isolate USA/WA-UW-bcf19/2019, complete genome
+>PP947613.1/1-13440 Human metapneumovirus isolate USA/WA-UW-ff64b/2020, complete genome
+>PP947642.1/1-13444 Human metapneumovirus isolate USA/WA-UW-63949/2020, complete genome
+>PP947643.1/1-13442 Human metapneumovirus isolate USA/WA-UW-87f30/2020, complete genome
+>PP947599.1/1-13444 Human metapneumovirus isolate USA/WA-UW-0d1ac/2020, complete genome
+>PQ634949.1/1-13444 Human metapneumovirus isolate USA/WA-UW-d1774/2020, complete genome
+>PP947618.1/1-13429 Human metapneumovirus isolate USA/WA-UW-98203/2020, complete genome
+>PP947641.1/1-13444 Human metapneumovirus isolate USA/WA-UW-972ba/2020, complete genome
+>PP947661.1/1-13444 Human metapneumovirus isolate USA/WA-UW-460ae/2020, complete genome
+>PP947699.1/1-13444 Human metapneumovirus isolate USA/WA-UW-4e433/2020, complete genome
+>OL794474.1/1-13335 Human metapneumovirus isolate NL/8/16/A2, complete genome
+>OM262395.1/1-13430 Human metapneumovirus isolate WZ17369, complete genome
+>MN745084.1/1-13430 Human metapneumovirus isolate bj0043, complete genome
+>OM262403.1/1-13293 Human metapneumovirus isolate BCH18060, complete genome
+>OM262404.1/1-13293 Human metapneumovirus isolate BCH18063, complete genome
+>OM262407.1/1-13293 Human metapneumovirus isolate GY18166, complete genome
+>OM262408.1/1-13293 Human metapneumovirus isolate GZFE17101, complete genome
+>OM262413.1/1-13293 Human metapneumovirus isolate WZ17335, complete genome
+>OM262414.1/1-13293 Human metapneumovirus isolate WZ17336, complete genome
+>OM262416.1/1-13293 Human metapneumovirus isolate WZ17350, complete genome
+>OP358287.1/1-13445 Human metapneumovirus isolate bj2560, complete genome
+>OM262396.1/1-13380 Human metapneumovirus isolate WZ17372, complete genome
+>MK087726.1/1-13380 Human metapneumovirus isolate hMPV/CHN/18JB00311/2018, complete genome
+>OP904022.1/1-13174 Human metapneumovirus isolate HMPV084, partial genome
+>OP904028.1/1-13174 Human metapneumovirus isolate HMPV097, partial genome
+>OP904012.1/1-13174 Human metapneumovirus isolate HMPV065, partial genome
+>OP904113.1/1-13174 Human metapneumovirus isolate HMPV229, partial genome
+>OP904121.1/1-13174 Human metapneumovirus isolate HMPV242, partial genome
+>OP904156.1/1-13174 Human metapneumovirus isolate HMPV298, partial genome
+>OP904179.1/1-13174 Human metapneumovirus isolate HMPV333, partial genome
+>OP904015.1/1-13174 Human metapneumovirus isolate HMPV068, partial genome
+>OP904025.1/1-13174 Human metapneumovirus isolate HMPV090, partial genome
+>OP904152.1/1-13174 Human metapneumovirus isolate HMPV289, partial genome
+>OP904027.1/1-13174 Human metapneumovirus isolate HMPV096, partial genome
+>OY757613.1/1-13432 Human metapneumovirus isolate DW-RAT-094 genome assembly, chromosome: 1
+>OY757629.1/1-13432 Human metapneumovirus isolate DW-RAT-042 genome assembly, chromosome: 1
+>OP345081.1/1-13445 Human metapneumovirus isolate bj2358, complete genome
+>OP345084.1/1-13445 Human metapneumovirus isolate bj2744, complete genome
+>MZ851793.1/1-13444 Human metapneumovirus isolate bj2294, complete genome
+>MZ851794.1/1-13444 Human metapneumovirus isolate bj2720, complete genome
+>PP947687.1/1-13443 Human metapneumovirus isolate USA/WA-UW-9bcba/2020, complete genome
+>MZ851797.1/1-13446 Human metapneumovirus isolate bj2657, complete genome
+>OP345083.1/1-13445 Human metapneumovirus isolate bj2650, complete genome
+>OP358288.1/1-13445 Human metapneumovirus isolate bj2753, complete genome
+>OP904133.1/1-13174 Human metapneumovirus isolate HMPV258, partial genome
+>OP904135.1/1-13174 Human metapneumovirus isolate HMPV262, partial genome
+>MF045424.2/1-13399 Human metapneumovirus strain HMPV/Seattle/USA/SC3141/2015, complete genome
+>MN745085.1/1-13430 Human metapneumovirus isolate bj0077, complete genome
+>MK167040.2/1-13404 Human metapneumovirus strain HMPV/Seattle/USA/SC2982/2017, complete genome
+>MZ851795.1/1-13446 Human metapneumovirus isolate bj1559, complete genome
+>OP345076.1/1-13445 Human metapneumovirus isolate bj1400, complete genome
+>OM262409.1/1-13293 Human metapneumovirus isolate GZFE17150, complete genome
+>OM262415.1/1-13294 Human metapneumovirus isolate WZ17341, complete genome
+>PQ634950.1/1-13443 Human metapneumovirus isolate USA/WA-UW-db801/2020, complete genome
+>PP947600.1/1-13441 Human metapneumovirus isolate USA/WA-UW-7d5fe/2019, complete genome
+>PP947696.1/1-13447 Human metapneumovirus isolate USA/WA-UW-9e248/2020, complete genome
+>OM262410.1/1-13293 Human metapneumovirus isolate WZ17133, complete genome
+>OL794419.1/1-13446 Human metapneumovirus isolate NL/3/18/A2, complete genome
+>PP947632.1/1-13444 Human metapneumovirus isolate USA/WA-UW-26754/2021, complete genome
+>PV052207.1/1-13442 Human metapneumovirus isolate hMPV/LC23/USA/2023, partial genome
+>PV052209.1/1-13439 Human metapneumovirus isolate hMPV/LC26/USA/2023, partial genome
+>OP904003.1/1-13174 Human metapneumovirus isolate HMPV002, partial genome
+>OP904005.1/1-13174 Human metapneumovirus isolate HMPV007, partial genome
+>OR671979.1/1-13439 Human metapneumovirus isolate HMPV/Tianjin/520/2022 N (N), P (P), M (M), F (F), M2-1 (M2), M2-2 (M2), SH (SH), G (G), and L (L) genes, complete cds
+>OR883672.1/1-13425 Human metapneumovirus isolate HMPV/Tianjin/594/2021 N (N), P (P), M (M), F (F), M2-1 (M2), M2-2 (M2), SH (SH), G (G), and L (L) genes, complete cds
+>OR883673.1/1-13436 Human metapneumovirus isolate HMPV/Tianjin/408/2022 N (N), P (P), M (M), F (F), M2-1 (M2), M2-2 (M2), SH (SH), G (G), and L (L) genes, complete cds
+>OM262412.1/1-13293 Human metapneumovirus isolate WZ17170, complete genome
+>PP763212.1/1-13430 Human metapneumovirus isolate CBS H-A89, partial genome
+>OY757607.1/1-13248 Human metapneumovirus isolate DW-RAT-102 genome assembly, chromosome: 1
+>OY757785.1/1-13252 Human metapneumovirus isolate DW-RAT-050 genome assembly, chromosome: 1
+>PQ634896.1/1-13444 Human metapneumovirus isolate USA/WA-UW-27d38/2021, complete genome
+>PV052170.1/1-13445 Human metapneumovirus isolate hMPV/296143/USA/2023, partial genome
+>PV052219.1/1-13359 Human metapneumovirus isolate hMPV/LC51/USA/2023, partial genome
+>PV052208.1/1-13377 Human metapneumovirus isolate hMPV/LC24/USA/2023, partial genome
+>PV252972.1/1-13444 Human metapneumovirus isolate USA/WA-UW-58aee/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV052198.1/1-13418 Human metapneumovirus isolate hMPV/431948/USA/2023, partial genome
+>PV052206.1/1-13416 Human metapneumovirus isolate hMPV/LC15/USA/2023, partial genome
+>PV252958.1/1-13425 Human metapneumovirus isolate USA/WA-UW-4882c/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV252973.1/1-13400 Human metapneumovirus isolate USA/WA-UW-6e838/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV052217.1/1-13445 Human metapneumovirus isolate hMPV/LC48/USA/2023, partial genome
+>PV052220.1/1-13443 Human metapneumovirus isolate hMPV/LC52/USA/2023, partial genome
+>PV052168.1/1-13416 Human metapneumovirus isolate hMPV/290786/USA/2023, partial genome
+>PV052169.1/1-13436 Human metapneumovirus isolate hMPV/294450/USA/2023, partial genome
+>PV052162.1/1-13404 Human metapneumovirus isolate hMPV/245935/USA/2023, partial genome
+>PQ117899.1/1-13364 UNVERIFIED: Human metapneumovirus isolate H20-358-1305, partial genome
+>PV052139.1/1-13405 Human metapneumovirus isolate hMPV/069039/USA/2023, partial genome
+>PV052146.1/1-13429 Human metapneumovirus isolate hMPV/125686/USA/2024, partial genome
+>PV022071.1/1-12976 Human metapneumovirus isolate USA/WA-UW-40834/2024, partial genome
+>PV052151.1/1-13419 Human metapneumovirus isolate hMPV/165348/USA/2024, partial genome
+>PQ634956.1/1-13444 Human metapneumovirus isolate USA/WA-UW-ed645/2022, complete genome
+>PV052179.1/1-13343 Human metapneumovirus isolate hMPV/333133/USA/2023, partial genome
+>PV252974.1/1-13435 Human metapneumovirus isolate USA/WA-UW-1a41a/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV052212.1/1-13394 Human metapneumovirus isolate hMPV/LC31/USA/2023, partial genome
+>PV178224.1/1-13276 Human metapneumovirus isolate HMPV/human/USA/MA-Broad_MGH-22695/2024 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydroph
+>PV178241.1/1-13309 Human metapneumovirus isolate HMPV/human/USA/MA-Broad_MGH-22555/2024 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydroph
+>PV206817.1/1-13198 Human metapneumovirus isolate HMPV/human/USA/MA-Broad_MGH-22926/2024 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydroph
+>PV052143.1/1-13419 Human metapneumovirus isolate hMPV/095153/USA/2023, partial genome
+>PV052172.1/1-13444 Human metapneumovirus isolate hMPV/306768/USA/2024, partial genome
+>PV052175.1/1-13425 Human metapneumovirus isolate hMPV/317785/USA/2023, partial genome
+>PV484790.1/1-13289 Human metapneumovirus isolate HMPV/human/USA/MA-Broad_MGH-23487/2025, partial genome
+>PV052184.1/1-13437 Human metapneumovirus isolate hMPV/341983/USA/2024, partial genome
+>PV252954.1/1-13446 Human metapneumovirus isolate USA/WA-UW-4621c/2024 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV252960.1/1-13437 Human metapneumovirus isolate USA/WA-UW-dad01/2024 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV252976.1/1-13426 Human metapneumovirus isolate USA/WA-UW-ad249/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>OZ211376.1/1-13334 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>OZ239581.1/1-13335 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>PV353970.1/1-13446 Human metapneumovirus A isolate hMPV/A/Peru/LIM-UPCH-4738/2022, complete genome
+>PV353971.1/1-13446 Human metapneumovirus A isolate hMPV/A/Peru/LIM-UPCH-4740/2023, complete genome
+>PV353972.1/1-13446 Human metapneumovirus A isolate hMPV/A/Peru/LIM-UPCH-4743/2023, complete genome
+>PV353973.1/1-13446 Human metapneumovirus A isolate hMPV/A/Peru/LIM-UPCH-4744/2023, complete genome
+>PV353977.1/1-13446 Human metapneumovirus A isolate hMPV/A/Peru/LIM-UPCH-4749/2023, complete genome
+>PV353974.1/1-13446 Human metapneumovirus A isolate hMPV/A/Peru/LIM-UPCH-4745/2023, complete genome
+>PV353975.1/1-13446 Human metapneumovirus A isolate hMPV/A/Peru/LIM-UPCH-4746/2023, complete genome
+>PV353976.1/1-13446 Human metapneumovirus A isolate hMPV/A/Peru/LIM-UPCH-4748/2023, complete genome
+>OZ239599.1/1-13336 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>OZ211400.1/1-13336 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>OZ211399.1/1-13335 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>PV052189.1/1-13445 Human metapneumovirus isolate hMPV/369015/USA/2023, partial genome
+>OZ211642.1/1-13336 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>PV252981.1/1-13435 Human metapneumovirus isolate USA/WA-UW-9736a/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV052171.1/1-13432 Human metapneumovirus isolate hMPV/297954/USA/2024, partial genome
+>PV052148.1/1-13443 Human metapneumovirus isolate hMPV/160466/USA/2023, partial genome
+>OZ211386.1/1-13335 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>OZ239613.1/1-13340 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>OZ211387.1/1-13335 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>LC823195.1/1-13444 Human metapneumovirus hMPVA_Fukushima_OH174_2023 DNA, nearly complete genome
+>PP716096.1/1-13451 Human metapneumovirus strain hMPV/Saint-Petersburg/RII-12410/2023, complete genome
+>PV052134.1/1-13421 Human metapneumovirus isolate hMPV/016260/USA/2024, partial genome
+>PV052194.1/1-13209 Human metapneumovirus isolate hMPV/397462/USA/2024, partial genome
+>PV052164.1/1-13414 Human metapneumovirus isolate hMPV/265423/USA/2024, partial genome
+>OZ211381.1/1-13335 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>PV052140.1/1-13434 Human metapneumovirus isolate hMPV/075517/USA/2024, partial genome
+>PV052192.1/1-13236 Human metapneumovirus isolate hMPV/384012/USA/2024, partial genome
+>PV052183.1/1-13413 Human metapneumovirus isolate hMPV/341713/USA/2024, partial genome
+>PV052225.1/1-13445 Human metapneumovirus isolate hMPV/LCB61/USA/2024, partial genome
+>PV052190.1/1-13419 Human metapneumovirus isolate hMPV/371807/USA/2024, partial genome
+>PV178512.1/1-13176 Human metapneumovirus isolate HMPV/human/USA/MA-Broad_MGH-16462/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydroph
+>PV052201.1/1-13435 Human metapneumovirus isolate hMPV/451125/USA/2024, partial genome
+>PQ117895.1/1-13404 UNVERIFIED: Human metapneumovirus isolate H20-346-1251, partial genome
+>PV052187.1/1-13402 Human metapneumovirus isolate hMPV/349425/USA/2024, partial genome
+>PQ117900.1/1-13316 UNVERIFIED: Human metapneumovirus isolate H20-360-5599, partial genome
+>PQ117901.1/1-13428 UNVERIFIED: Human metapneumovirus isolate H20-361-0857, partial genome
+>PV178633.1/1-13170 Human metapneumovirus isolate HMPV/human/USA/MA-Broad_BWH-20927/2024 nucleoprotein (N) gene, partial cds; and phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2
+>PV052182.1/1-13433 Human metapneumovirus isolate hMPV/338285/USA/2023, partial genome
+>PV260519.1/1-13257 Human metapneumovirus isolate HMPV/human/USA/MA-Broad_MGH-23131/2025, partial genome
+>LC823194.1/1-13444 Human metapneumovirus hMPVA_Fukushima_OH137_2023 DNA, nearly complete genome
+>PV052195.1/1-13425 Human metapneumovirus isolate hMPV/412877/USA/2023, partial genome
+>PV252983.1/1-13432 Human metapneumovirus isolate USA/WA-UW-b39a1/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV455598.1/1-13445 Human metapneumovirus isolate USA/WA-UW-721ae/2023, partial genome
+>PV252969.1/1-13435 Human metapneumovirus isolate USA/WA-UW-7a4cf/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PQ074242.1/1-13361 UNVERIFIED: Human metapneumovirus isolate GKISBBBB66171, partial genome
+>PV052159.1/1-13436 Human metapneumovirus isolate hMPV/218608/USA/2023, partial genome
+>PV052176.1/1-13412 Human metapneumovirus isolate hMPV/320618/USA/2023, partial genome
+>PV252968.1/1-13420 Human metapneumovirus isolate USA/WA-UW-f17e1/2022 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV455597.1/1-13425 Human metapneumovirus isolate USA/WA-UW-c7eb3/2023, partial genome
+>PQ117893.1/1-13394 UNVERIFIED: Human metapneumovirus isolate GKISBBBB89477, partial genome
+>PQ117894.1/1-13295 UNVERIFIED: Human metapneumovirus isolate GKISBBBC49382, partial genome
+>PV052186.1/1-13429 Human metapneumovirus isolate hMPV/347299/USA/2023, partial genome
+>PV252984.1/1-13424 Human metapneumovirus isolate USA/WA-UW-ebd18/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV252961.1/1-13442 Human metapneumovirus isolate USA/WA-UW-f61ba/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV052214.1/1-13438 Human metapneumovirus isolate hMPV/LC40/USA/2023, partial genome
+>OZ211373.1/1-13334 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>OZ211385.1/1-13335 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>OZ211388.1/1-13335 Human metapneumovirus CAN97-83 isolate Respiratory swabs genome assembly, chromosome: NC_004148
+>PQ634937.1/1-13443 Human metapneumovirus isolate USA/WA-UW-a13cb/2022, complete genome
+>PV052202.1/1-13354 Human metapneumovirus isolate hMPV/458679/USA/2023, partial genome
+>PV052215.1/1-13408 Human metapneumovirus isolate hMPV/LC44/USA/2023, partial genome
+>PV252971.1/1-13444 Human metapneumovirus isolate USA/WA-UW-a5527/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV052157.1/1-13402 Human metapneumovirus isolate hMPV/183948/USA/2023, partial genome
+>PV252970.1/1-13432 Human metapneumovirus isolate USA/WA-UW-545c0/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV052197.1/1-13417 Human metapneumovirus isolate hMPV/428781/USA/2023, partial genome
+>PV052166.1/1-13328 Human metapneumovirus isolate hMPV/278518/USA/2024, partial genome
+>PV252963.1/1-13443 Human metapneumovirus isolate USA/WA-UW-9c40f/2024 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV252965.1/1-13436 Human metapneumovirus isolate USA/WA-UW-4fb2a/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV052153.1/1-13435 Human metapneumovirus isolate hMPV/173450/USA/2024, partial genome
+>PV252979.1/1-13444 Human metapneumovirus isolate USA/WA-UW-3fa0b/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV052223.1/1-13432 Human metapneumovirus isolate hMPV/LC59/USA/2023, partial genome
+>PV052200.1/1-13410 Human metapneumovirus isolate hMPV/445077/USA/2023, partial genome
+>PV353969.1/1-13446 Human metapneumovirus A isolate hMPV/A/Peru/LIM-UPCH-4587/2024, complete genome
+>MW221993.1/1-13174 Human metapneumovirus strain A/NSW/WM2755851/19, partial genome
+>OP904145.1/1-13174 Human metapneumovirus isolate HMPV280, partial genome
+>OP904161.1/1-13174 Human metapneumovirus isolate HMPV307, partial genome
+>OP904173.1/1-13174 Human metapneumovirus isolate HMPV324, partial genome
+>OP904170.1/1-13174 Human metapneumovirus isolate HMPV318, partial genome
+>OP904162.1/1-13174 Human metapneumovirus isolate HMPV308, partial genome
+>OP904172.1/1-13174 Human metapneumovirus isolate HMPV321, partial genome
+>OP904167.1/1-13174 Human metapneumovirus isolate HMPV315, partial genome
+>OP904165.1/1-13174 Human metapneumovirus isolate HMPV312, partial genome
+>OP904169.1/1-13174 Human metapneumovirus isolate HMPV317, partial genome
+>OP904171.1/1-13174 Human metapneumovirus isolate HMPV319, partial genome
+>OP904168.1/1-13174 Human metapneumovirus isolate HMPV316, partial genome
+>OP904163.1/1-13174 Human metapneumovirus isolate HMPV309, partial genome
+>OP904164.1/1-13174 Human metapneumovirus isolate HMPV311, partial genome
+>OP904166.1/1-13174 Human metapneumovirus isolate HMPV313, partial genome
+>OP904174.1/1-13174 Human metapneumovirus isolate HMPV326, partial genome
+>OY757690.1/1-13287 Human metapneumovirus isolate DW-RAT-004 genome assembly, chromosome: 1
+>OY757726.1/1-13288 Human metapneumovirus isolate DW-RAT-117 genome assembly, chromosome: 1
+>PV052135.1/1-13444 Human metapneumovirus isolate hMPV/019738/USA/2025, partial genome
+>PV052167.1/1-13443 Human metapneumovirus isolate hMPV/289315/USA/2023, partial genome
+>PV260518.1/1-13198 Human metapneumovirus isolate HMPV/human/USA/MA-Broad_MGH-23144/2025, partial genome
+>PV252957.1/1-13445 Human metapneumovirus isolate USA/WA-UW-126d3/2023 nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), matrix protein 2-1 (M2), matrix protein 2-2 (M2), small hydrophobic protein (SH),
+>PV052163.1/1-13434 Human metapneumovirus isolate hMPV/262330/USA/2023, partial genome
+>OR671980.1/1-13435 Human metapneumovirus isolate HMPV/Tianjin/490/2022 N (N), P (P), M (M), F (F), M2-1 (M2), M2-2 (M2), SH (SH), G (G), and L (L) genes, complete cds
+>PQ117898.1/1-13350 UNVERIFIED: Human metapneumovirus isolate H20-357-5747, partial genome
+>PV052188.1/1-13439 Human metapneumovirus isolate hMPV/352340/USA/2023, partial genome
+>PV052227.1/1-13436 Human metapneumovirus isolate hMPV/LCB63/USA/2024, partial genome
+>MH828683.1/1-13289 Human metapneumovirus strain vzhmpva1 nucleocapsid (N), phosphoprotein (P), matrix protein (M), fusion glycoprotein precursor (F), matrix protein M2-1 (M2-1), matrix protein M2-2 (M2-2), small hydrophobic protei
